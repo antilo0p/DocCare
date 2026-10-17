@@ -1,0 +1,6 @@
+{
+  "name": "DocCare",
+  "description": "Simplified doctor appointment manager designed for seniors with large text and voice commands.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
